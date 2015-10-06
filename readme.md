@@ -1,6 +1,6 @@
 ## Website Performance Optimization portfolio project
 
-### View the live site here
+### View the project live site here
 
 www.searingsky.com/Project4
 
