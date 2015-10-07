@@ -1,6 +1,8 @@
 ## Website Performance Optimization portfolio project
 
+#### View the live site at the following link:
 
+<a href="http://www.searingsky.com/Project4/" target="_blank">Project 4</a>
 
 ### Part 1: Optimize PageSpeed Insights score for index.html
 
