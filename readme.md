@@ -1,8 +1,11 @@
 ## Website Performance Optimization portfolio project
 
+
 #### View the live site at the following link:
 
+
 <a href="http://www.searingsky.com/Project4/" target="_blank">Project 4</a>
+
 
 ### Part 1: Optimize PageSpeed Insights score for index.html
 
@@ -19,9 +22,9 @@
 * Async was added to google analytics script.
 
 
-###Part 2: Optimize Frames per Second in pizza.html.
+###Part 2: Optimize Frames per Second in pizza.html page:
 
-#### Mofidfications made to main.js
+#### Modifications made to main.js
 
 * Changed all querySelector to getElementById for performance improvement.
 
@@ -32,6 +35,7 @@
 * Created a new function NewPizza() to generate random pizzas and appends all the pizzas only once
 
 * Moved document.body.scrollTop outside of the for loop in updatePositions function;
+
 
 ### Instructions for running the application
  
@@ -53,4 +57,15 @@
  
  1. Copy and paste into your browsers address bar the public URL ngrok provides to you. Then run Google Chrome's Dev Tools to inspect.
 
+ 
+### Some useful resources that I used to complete the project
 
+<a href="https://developers.google.com/web/" target="_blank">Google Reveloper Resources</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">Mozilla Developer Network</a>
+
+<a href="https://help.github.com" target="_blank">Github Documentation</a>
+
+<a href="https://css-tricks.com" target="_blank">CSS Tricks</a>
+
+<a href="http://www.w3schools.com/js/js_examples.asp" target="_blank">W3 Schools</a>
