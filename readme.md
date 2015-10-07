@@ -57,10 +57,10 @@
  
  1. Copy and paste into your browsers address bar the public URL ngrok provides to you. Then run Google Chrome's Dev Tools to inspect.
 
- 
+
 ### Some useful resources that I used to complete the project
 
-<a href="https://developers.google.com/web/" target="_blank">Google Reveloper Resources</a>
+<a href="https://developers.google.com/web/" target="_blank">Google Developer Resources</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">Mozilla Developer Network</a>
 
