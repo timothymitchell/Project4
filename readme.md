@@ -21,10 +21,10 @@
 
 #### Mofidfications made to main.js
 
-* Changed all querySelector to getElementById for performance improvement.
-* On function changePizzaSizes, changed querySelectorAll with getElementsByclassName and moved the variables from for loop to outside of loop.
-* On document.addEventListener, looped through 32 instead of 200 pizzas. 
-* Created a new function NewPizza() to generate random pizzas and appends all the pizzas only once
-* Moved document.body.scrollTop outside of the for loop in updatePositions function;
+:one: Changed all querySelector to getElementById for performance improvement.
+:two: On function changePizzaSizes, changed querySelectorAll with getElementsByclassName and moved the variables from for loop to outside of loop.
+:three: On document.addEventListener, looped through 32 instead of 200 pizzas. 
+:four: Created a new function NewPizza() to generate random pizzas and appends all the pizzas only once
+:five: Moved document.body.scrollTop outside of the for loop in updatePositions function;
 
 
